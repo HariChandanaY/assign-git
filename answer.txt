@@ -1,0 +1,4 @@
+1) Gitignore is a file that includes a list of files or directories that should be ignored when committing to remote repositories in Java projects.
+2) A fast-forward is what Git does when you merge or rebase against a branch that is simply ahead the one you have checked-out.
+3) To control different versions and different functions from different programmers.
+4) We can have as many as needed but only one named "origin".
